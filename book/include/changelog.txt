@@ -1,0 +1,31 @@
+2009-06-17  Ladislav Prskavec <ladislav@prskavec.net> 
+
+* [r35] changelog, changelog.html, html/apa.html, html/bi01.html,
+  html/ch01.html, html/ch01s02.html, html/ch02.html,
+  html/ch02s02.html, html/ch02s03.html, html/ch02s04.html,
+  html/ch02s05.html, html/ch03.html, html/ch03s02.html,
+  html/ch03s03.html, html/ch04.html, html/ch04s02.html,
+  html/ch04s03.html, html/ch04s04.html, html/ch05.html,
+  html/ch05s02.html, html/ch05s03.html, html/ch05s04.html,
+  html/ch05s05.html, html/ch06.html, html/ch06s02.html,
+  html/ch06s03.html, html/ch07.html, html/ch07s02.html,
+  html/index.html, html/pr01.html, index.html, make.sh,
+  svn-kniha.html, svn-kniha.xml, svn2html.css:
+  
+  Update generating.
+  Link to changelog.
+
+* [r34] authors.xml, changelog, html/apa.html, html/bi01.html,
+  html/ch01.html, html/ch01s02.html, html/ch02.html,
+  html/ch02s02.html, html/ch02s03.html, html/ch02s04.html,
+  html/ch02s05.html, html/ch03.html, html/ch03s02.html,
+  html/ch03s03.html, html/ch04.html, html/ch04s02.html,
+  html/ch04s03.html, html/ch04s04.html, html/ch05.html,
+  html/ch05s02.html, html/ch05s03.html, html/ch05s04.html,
+  html/ch05s05.html, html/ch06.html, html/ch06s02.html,
+  html/ch06s03.html, html/ch07.html, html/ch07s02.html,
+  html/index.html, html/pr01.html, make.sh, svn-kniha.html:
+  
+  Update generating, add make changelog       
+   
+   ...
